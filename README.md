@@ -1,1 +1,20 @@
 # 3D-Printer
+## Printer Specs
+- Printer:
+  - Ender 3 Pro
+- Motherboard:
+  - BIGTREETECH Upgrade SKR Mini E3 V3.0
+- Build Plate:
+  - Creality PEI Magnetic Build Plate
+  - Creality Tempered Glass Build Plate
+  - Ender 3 Pro Stock Plate
+- Nozzle:
+  - Micro Swiss MK8 Plated Wear Resistant Nozzle .4 mm
+- Hotend:
+  - Micro Swiss All Metal Hotend Kit
+- Accessories:
+  - Creality Capricorn 1 Meter Bowden PTFE Tube
+  - Creality BL Touch Auto Bed Leveling Kit
+- Software:
+  - Firmware: Klipper/Mainsail
+  - Raspberry Pi 4 Model B
