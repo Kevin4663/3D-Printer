@@ -16,6 +16,7 @@
 - Accessories:
   - Creality Capricorn 1 Meter Bowden PTFE Tube
   - Creality BL Touch Auto Bed Leveling Kit
+  - [Metal Hand Twist Leveling Nuts + Heatbed Silicone Leveling Column Mount Buffers Springs](https://www.amazon.com/dp/B09FX6GL1H)
 - Software:
   - Firmware: Klipper/Mainsail
-  - Raspberry Pi 4 Model B
+  - Raspberry Pi 4 Model B 4GB DDR4 RAM
