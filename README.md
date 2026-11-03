@@ -12,6 +12,7 @@
   - Micro Swiss MK8 Plated Wear Resistant Nozzle .4 mm
 - Hotend:
   - Micro Swiss All Metal Hotend Kit
+  - E3D High Precision Ceramic Heater Cartridge 24v 40w
 - Accessories:
   - Creality Capricorn 1 Meter Bowden PTFE Tube
   - Creality BL Touch Auto Bed Leveling Kit
